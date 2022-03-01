@@ -1,0 +1,1 @@
+print("Expected Output:", int(input("Height: "))*(int(input("Base, first value: "))+int(input("Base, second value: ")))/2)
